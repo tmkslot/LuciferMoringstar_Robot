@@ -12,11 +12,7 @@
       "search",
       "channel",
       "index",
-      "inline"
-    ],
-    "website": "https://github.com/PR0FESS0R-99/LuciferMoringstar_Robot",
-    "repository": "https://github.com/PR0FESS0R-99/LuciferMoringstar_Robot",
-    "env": {
+    
         "BOT_TOKEN": {
             "description": "Your bot token.",
             "value": ""
@@ -111,10 +107,7 @@
             "required": true
         }
     },
-    "addons": [],
-    "buildpacks": [
-        {
-            "url": "heroku/python"
+    
         }
     ],
     "formation": {
